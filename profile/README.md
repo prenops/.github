@@ -7,7 +7,7 @@ Organisasi GitHub untuk proyek-proyek selama **magang di PT Indonesia Comnets Pl
 
 | Proyek | Deskripsi | Stack |
 |---|---|---|
-| [**SPS**](https://github.com/mahasajo/prenops) | SPS (Shelter Power Subsystem) Monitoring kesehatan aki 12V genset backup daya Point of Presence (PoP) secara realtime. | Rust · ESP32 (WT32-ETH01) · Modbus RTU · PostgreSQL |
+| [**SPS**]((https://github.com/prenops/SPS)) | SPS (Shelter Power Subsystem) Monitoring kesehatan aki 12V genset backup daya Point of Presence (PoP) secara realtime. | Rust · ESP32 (WT32-ETH01) · Modbus RTU · PostgreSQL |
 | - | Coming Soon | - |
 
 ## 👥 Tim
